@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CalcLibUnitTest/CalcLibUnitTest.csproj" Id="6f422e3d-ad04-4e09-93df-71ce11824733" />
+  <Project Path="ClassLibrary1/CalcLib.csproj" Id="54c799ea-8131-4ca6-944a-bceb95fe354e" />
+  <Project Path="Vlasenko_Pr2_Calc/Vlasenko_Pr2_Calc.csproj" Id="b84f9b72-36d4-4902-a25a-e5d4d2cd4101" />
+</Solution>
